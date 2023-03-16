@@ -1,0 +1,23 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "PUCRS - Security of Systems - Assessment 1",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "nodemon src/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "systems",
+    "vigenere",
+    "cypher",
+    "decryption",
+    "assessment"
+  ],
+  "author": "Marco Goedert",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
